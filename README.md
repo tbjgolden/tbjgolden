@@ -8,4 +8,4 @@
 - ⚡ fun fact: not actually an aquatic mammal, for i am an english man
 - 💪 weird flex: was shipt's first web developer
 
-not interested in jobs that require me to wear a suit, unless I can wear a suit of armour 💂
+not interested in jobs that require me to wear a suit (except a suit of medieval armour) 💂
