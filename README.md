@@ -4,7 +4,6 @@
 - 👯 i'm a hobby open source contributor
 - 🤔 i'm looking for help with bulding declarative css solution
 - 💬 i'm a css expert (check out my [spec compliant media query parser](https://github.com/tbjgolden/media-query-parser))
-- 📫 how to reach me: @tbjgolden on twitter
 - ⚡ fun fact: not actually an aquatic mammal, for i am an english man
 - 💪 weird flex: was shipt's first web developer
 
