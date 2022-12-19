@@ -1,5 +1,7 @@
-### hi, i'm an aquatic mammal
+### Hi! 🧸
 
-- 👯 i'm a hobby open source contributor
-- 💬 i'm a css expert (check out my [spec compliant media query interpreter](https://tom.bio/experiments/media-query-playground))
-- ⚡ fun fact: not actually an aquatic mammal, for i am an english man
+I am:
+
+* an open source contributor
+* a dev who writes TypeScript for a living
+* a CSS expert (check out my [spec compliant media query interpreter](https://tom.bio/experiments/media-query-playground))
